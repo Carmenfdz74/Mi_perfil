@@ -4,7 +4,8 @@
 
 ---
 
-![Avatar](assets/avatar.png)
+![Captura de pantalla 2025-01-11 203959](https://github.com/user-attachments/assets/55bf1ab1-28d1-4a17-83f3-9f77002c79b1)
+
 
 ### 🧑‍🎓 Sobre mí
 Soy una profesional en transición hacia el sector tecnológico, con más de 25 años de experiencia en asistencia domiciliaria. Actualmente estoy aprendiendo y desarrollándome en áreas como **programación en Python**, **cloud computing** y competencias digitales. Mi objetivo es utilizar tanto mis habilidades interpersonales como las tecnológicas para aportar valor en proyectos de desarrollo y soluciones tecnológicas.
