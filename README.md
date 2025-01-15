@@ -51,4 +51,4 @@ Mi meta es crecer en el ámbito tecnológico como **desarrolladora junior**, tra
 ### 📨 ¡Contáctame!
 - [LinkedIn](https://www.linkedin.com/in/carmen-fernandez-626866137/)
 -**Email: [ddiosa44@gmail.com]**
-[Descargar mi currículum]()
+[Descargar mi currículum](https://github.com/Carmenfdz74/Mi_perfil/blob/main/Curriculum_tecnologia_carmen.pdf)
