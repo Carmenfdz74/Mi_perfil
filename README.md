@@ -1,2 +1,52 @@
-# Mi_perfil
-Mi porfolio 
+# ¡Hola, soy Carmen! 👩‍💻
+
+### De la ayuda a domicilio a la tecnología: mi camino hacia la programación 🚀
+
+---
+
+![Avatar](assets/avatar.png)
+
+### 🧑‍🎓 Sobre mí
+Soy una profesional en transición hacia el sector tecnológico, con más de 25 años de experiencia en asistencia domiciliaria. Actualmente estoy aprendiendo y desarrollándome en áreas como **programación en Python**, **cloud computing** y competencias digitales. Mi objetivo es utilizar tanto mis habilidades interpersonales como las tecnológicas para aportar valor en proyectos de desarrollo y soluciones tecnológicas.
+
+---
+
+### 💻 Habilidades y tecnologías:
+- **Programación**: Python (nivel básico), Scratch.
+- **Cloud computing**: Microsoft Azure (certificación AZ-900).
+- **Herramientas digitales**: Microsoft Office, Google Workspace, Teams.
+- **Automatización de tareas**: Scripts básicos en Python para organizar archivos y automatizar tareas repetitivas.
+
+---
+
+### 🚀 Proyectos destacados:
+1. **Gestión de horarios con Python** 🕒  
+   Un script para automatizar la organización de horarios y tareas personales.  
+   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+
+2. **Juego interactivo en Scratch** 🎮  
+   Un pequeño juego diseñado como práctica para aplicar lógica de programación.  
+   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+
+3. **Entorno cloud en Azure** ☁️  
+   Simulación de entornos básicos en la nube, configurando servicios de almacenamiento y cálculo.  
+   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+
+---
+
+### 🎯 Mi evolución
+Estoy actualmente cursando y finalizando programas de formación para continuar desarrollándome en:
+- **Fundamentos de programación**: Estructuras de datos, algoritmos y programación en C++.
+- **Desarrollo web**: HTML, CSS, y conceptos básicos de React.
+- **Proyectos adicionales**: Planificación de aplicaciones más avanzadas para practicar y mejorar mis habilidades.
+
+---
+
+### 🎯 Objetivos profesionales
+Mi meta es crecer en el ámbito tecnológico como **desarrolladora junior**, trabajando en proyectos que combinen tecnología y organización. Estoy motivada por aprender y colaborar en entornos donde pueda aportar mi experiencia previa en gestión y resolución de problemas.
+
+---
+
+### 📨 ¡Contáctame!
+- **LinkedIn**: [Tu perfil](https://linkedin.com/in/tu-perfil)
+- **Email**: ddiosa44@gmail.com
