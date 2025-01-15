@@ -23,15 +23,15 @@ Soy una profesional en transición hacia el sector tecnológico, con más de 25 
 ### 🚀 Proyectos destacados:
 1. **Gestión de horarios con Python** 🕒  
    Un script para automatizar la organización de horarios y tareas personales.  
-   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+  
 
 2. **Juego interactivo en Scratch** 🎮  
    Un pequeño juego diseñado como práctica para aplicar lógica de programación.  
-   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+
 
 3. **Entorno cloud en Azure** ☁️  
    Simulación de entornos básicos en la nube, configurando servicios de almacenamiento y cálculo.  
-   [🔗 Ver repositorio](https://github.com/tu-repo-ejemplo)
+  
 
 ---
 
